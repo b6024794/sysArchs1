@@ -22,3 +22,8 @@ ul{
 hr{
 	border-color:red;
 }
+table{
+	background-color:white;
+	color:blue;
+	font-family:"Comic Sans";
+}
